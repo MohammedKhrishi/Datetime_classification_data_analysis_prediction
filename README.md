@@ -21,10 +21,10 @@ Feature engineering is the pre-processing step of machine learning, which extrac
 
 ## Below are some benefits of using feature selection in machine learning:
 
-*It helps in avoiding the curse of dimensionality.
-*It helps in the simplification of the model so that the researchers can easily interpret it.
-*It reduces the training time.
-*It reduces overfitting hence enhancing the generalization.
+- [] It helps in avoiding the curse of dimensionality.
+- [] It helps in the simplification of the model so that the researchers can easily interpret it.
+- [] It reduces the training time.
+- [] It reduces overfitting hence enhancing the generalization.
 
 ## Steps in Feature Engineering
 
