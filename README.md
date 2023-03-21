@@ -1,6 +1,7 @@
 ## A simple Random Forest classification algorithm demo project where it will be shown How to train a machine learning model to predict on  Healthcare Appointment No-Shows utilising datetime feature engineering. 
 
 ### Feature engineering is the pre-processing step of machine learning, which is used to transform raw data into features that can be used for creating a predictive model using Machine learning or statistical Modelling. Feature engineering in machine learning aims to improve the performance of models.
+
 Feature engineering is the pre-processing step of machine learning, which extracts features from raw data. It helps to represent an underlying problem to predictive models in a better way, which as a result, improve the accuracy of the model for unseen data. The predictive model contains predictor variables and an outcome variable, and while the feature engineering process selects the most useful predictor variables for the model.
 
 ## Feature Engineering for Machine Learning
@@ -20,15 +21,13 @@ Feature engineering is the pre-processing step of machine learning, which extrac
 
 ## Below are some benefits of using feature selection in machine learning:
 
-1.It helps in avoiding the curse of dimensionality.
-2.It helps in the simplification of the model so that the researchers can easily interpret it.
-3.It reduces the training time.
-4.It reduces overfitting hence enhancing the generalization.
-
-
-### In machine learning, the performance of the model depends on data pre-processing and data handling. But if we create a model without pre-processing or data handling, then it may not give good accuracy. Whereas, if we apply feature engineering on the same model, then the accuracy of the model is enhanced. Hence, feature engineering in machine learning improves the model's performance. Below are some points that explain the need for feature engineering:
+*It helps in avoiding the curse of dimensionality.
+*It helps in the simplification of the model so that the researchers can easily interpret it.
+*It reduces the training time.
+*It reduces overfitting hence enhancing the generalization.
 
 ## Steps in Feature Engineering
+
 ### The steps of feature engineering may vary as per different data scientists and ML engineers. However, there are some common steps that are involved in most machine learning algorithms, and these steps are as follows:
 
 #### Data Preparation: The first step is data preparation. In this step, raw data acquired from different resources are prepared to make it in a suitable format so that it can be used in the ML model. The data preparation may contain cleaning of data, delivery, data augmentation, fusion, ingestion, or loading.
